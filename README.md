@@ -1,6 +1,6 @@
 - Hi, I’m @hallunal
-- I’m interested in hardware design and programming
-- I’m currently learning altium, python and C++
+- I’m interested in programming
+- I’m currently learning python and Java
 - 📫 How to reach me halil.i.unal1997@gmail.com
 
 <!---
